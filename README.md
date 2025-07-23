@@ -35,8 +35,8 @@
 ### 📫 Connect With Me
 
 - 📧 Email: `amanthachanaka223@gmail.com`
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/amanthachanaka223) 
-- 🌐 Portfolio: [yourwebsite.com](https://wadac223-portfolio.vercel.app/)
+- 🔗 LinkedIn: [linkedin.com/in/myaccount](www.linkedin.com/in/amanthachanaka223) 
+- 🌐 Portfolio: [Wacwebsite.com](https://wadac223-portfolio.vercel.app/)
 
 ---
 
