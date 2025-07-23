@@ -34,9 +34,9 @@
 
 ### 📫 Connect With Me
 
-- 📧 Email: `your_email@example.com` *(replace this with your actual email)*
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) *(optional)*
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com) *(optional)*
+- 📧 Email: `amanthachanaka223@gmail.com`
+- 🔗 LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/amanthachanaka223) 
+- 🌐 Portfolio: [yourwebsite.com](https://wadac223-portfolio.vercel.app/)
 
 ---
 
