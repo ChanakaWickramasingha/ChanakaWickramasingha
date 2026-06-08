@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 # 👋 Hi, I'm Amantha Chanaka
@@ -13,14 +13,14 @@
 
 ## 🧠 About Me
 
-```txt
+
 🎓 B.Sc. (Hons) Information Technology — Data Science @ SLIIT
 📊 Interested in Data Analytics, Data Engineering and Machine Learning
 🛠️ Building ETL pipelines, BI dashboards, ML models and AI systems
 ☁️ AWS Cloud Practitioner | Azure Fundamentals modules completed
 📍 Sri Lanka
 📧 amanthachanaka223@gmail.com
-````
+
 
 ---
 
